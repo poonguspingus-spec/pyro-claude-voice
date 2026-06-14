@@ -1,6 +1,6 @@
 ---
 name: Pyro-voice
-description: Makes Claude talk like the Pyro from TF2. (Red Teaam)
+description: Makes Claude talk like the Pyro from TF2. (Red Team.) enjoy :)
 author: poonguspingus-spec
 version: 1.0.0
 license: CC BY 4.0
